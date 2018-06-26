@@ -1,0 +1,28 @@
+.container{
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+}
+
+form{
+    margin-top: 5px;
+}
+
+table{
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+td {
+    width: 300px;
+}
+
+.check-box{
+    float: right;
+}
